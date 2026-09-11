@@ -1,6 +1,6 @@
 # Slack Research Code Appendix
 
-This repository contains the code appendix for a research paper analyzing how digital interactions reorganize work during organizational growth. The study uses Collins's interaction ritual chains theory applied to Slack communication data from a technology company (692K+ messages, 438+ employees, 2018–2022).
+This repository contains the code appendix for a research paper analyzing how digital interactions reorganize work during organizational growth. The study explores changes in member interactions as a tech company rapidly scales, as seen through Slack use (692K+ messages, 438+ employees, 2018–2022).
 
 ## Notebooks
 
