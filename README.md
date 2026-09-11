@@ -2,6 +2,10 @@
 
 This repository contains the code appendix for a research paper analyzing how digital interactions reorganize work during organizational growth. The study explores changes in member interactions as a tech company rapidly scales, as seen through Slack use (692K+ messages, 438+ employees, 2018–2022).
 
+
+## Accessing the notebooks
+Download the repository as a zip folder by clicking on green code button and then Download ZIP
+
 ## Notebooks
 
 ### Descriptives.html
